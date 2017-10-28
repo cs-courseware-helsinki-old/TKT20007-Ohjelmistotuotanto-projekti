@@ -1,1 +1,8 @@
-# TKT20007-Software-Engineering-Lab
+# TKT20007-Ohjelmistotuotantoprojekti
+
+### Kurssisivut
+* [kaikki](https://courses.helsinki.fi/fi/tkt10003/)
+* [syksy-2017](https://courses.helsinki.fi/fi/tkt10003/119284733)
+
+### Kurssimateriaalit
+* [syksy-2017]()
